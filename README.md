@@ -1,5 +1,5 @@
 ### Deepseek Prompt
-Pls give me python code to convert 17,000 USD, 200 SGD and 5,000 CNY sum to THB in real time. <br>
+Pls give me python code to convert 17,000 USD, 200 SGD and 5,000 CNY sum to THB in real time. <br><br>
 Pls modify the code to for endless loop and printout the result every hour with timestamp. Incase connection error pls do not print anything just keep it quite.
 ### Installation
 ```
