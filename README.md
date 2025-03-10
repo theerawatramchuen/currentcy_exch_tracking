@@ -1,3 +1,7 @@
+### Installation
+```
+pip install yfinance
+```
 ```
 import yfinance as yf
 from datetime import datetime
